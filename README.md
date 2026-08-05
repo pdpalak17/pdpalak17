@@ -21,7 +21,7 @@ Comfortable with Python (ML/DL frameworks), MATLAB (signal processing), and simu
 
 ---
 
-### 🧠 Projects
+###  Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -36,48 +36,70 @@ Comfortable with Python (ML/DL frameworks), MATLAB (signal processing), and simu
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**ML / Deep Learning / Explainable AI**
+**ML / AI Libraries**
 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0E7C7B?style=flat-square)
-![OpenCV](https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-6A4C93?style=flat-square)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black)
+![pyrealsense2](https://img.shields.io/badge/pyrealsense2-0071C5?style=flat-square&logo=intel&logoColor=white)
 
-**Backend / APIs / Apps**
+**Algorithms & Techniques**
+
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E7C7B?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-4B8BBE?style=flat-square)
+![GRU](https://img.shields.io/badge/GRU-6A5ACD?style=flat-square)
+![ANN](https://img.shields.io/badge/ANN-8A2BE2?style=flat-square)
+![K--Means](https://img.shields.io/badge/K--Means-20B2AA?style=flat-square)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-3CB371?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-708090?style=flat-square)
+![LIME](https://img.shields.io/badge/LIME-9370DB?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-6A4C93?style=flat-square)
+![Q--Learning](https://img.shields.io/badge/Q--Learning-DC143C?style=flat-square)
+
+**Full-Stack & Systems**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-4285F4?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=flat-square)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF8C00?style=flat-square)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Intel RealSense](https://img.shields.io/badge/Intel_RealSense-0071C5?style=flat-square&logo=intel&logoColor=white)
+![DigSILENT](https://img.shields.io/badge/DigSILENT_PowerFactory-004A87?style=flat-square)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
-### 💭 Daily thought
+### Daily thought
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=17&duration=6000&pause=3000&color=C3A6FF&center=true&vCenter=true&width=650&lines=%22Any+unwillingness+to+learn+mathematics+today+can+greatly+restrict%22;%22your+possibilities+tomorrow.%22+%E2%80%94+Richard+Hamming" alt="Daily thought" />
