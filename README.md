@@ -1,12 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Machine Learning-based systems for smart grids and intelligent energy solutions<br>Research projects involving reinforcement learning and multi-agent systems<br>Improving my DSA and problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>AI/ML projects (especially real-world applications like healthcare, energy, or robotics)<br>Open-source projects related to data science or intelligent systems<br>Research-oriented projects in machine learning and control systems<br><br>🤝 I’m looking for help with<br><br>Advanced deep learning architectures and optimization techniques<br>Scaling ML models for real-world deployment<br>Research paper writing and publishing in top-tier conferences and Journals <br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning & Deep Learning<br>Reinforcement Learning<br>Data Structures & Algorithms (for coding interviews)<br> AI Agents and LLMs <br><br>💬 Ask me about<br><br>Machine Learning & AI basics<br>Python, MATLAB, and data analysis<br>Research internships and getting started with projects<br><br>⚡ Fun fact<br><br>If I’m not coding, I’m probably overthinking life or hanging out with my friends 😄
+<h1 align="center">Hi, I'm Palak 👋</h1>
+<h3 align="center">CSE (AI/ML) student · Building AI systems that solve real problems</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3500&pause=1200&color=A9B1D6&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI%2FML)+%40+Woxsen+University;Working+on+RL%2C+multi-agent+systems+%26+applied+ML;Currently+researching+HCI-driven+smart+mobility" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/831775587827187714) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pd.palak17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/palak-dwivedi-597250312) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pdpalak17) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32694628) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PalakDwive32910) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakdwivedi109@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)!![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### About me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm an AI/ML student focused on applying machine learning and reinforcement learning to real-world systems — from energy and mobility to intelligent agents. I like projects that combine research rigor with something you can actually ship.
+
+**Currently:**
+- Researching a supercapacitor-driven smart bicycle with HCI features — computer-vision-based gradient/pedal-force tracking, sensor fusion, and an intelligent perception dashboard
+- Writing a book chapter on RAG-based domain-specific AI agents
+- Sharpening DSA for interviews
+
+**Open to:** AI/ML internships, and collaborating on applied ML / research-driven projects (energy, robotics, intelligent systems).
+
+---
+
+### 🚲 A couple of things I've built
+
+| Project | What it is |
+|---|---|
+| **[Bicycle-Gradient-Tracker](https://github.com/pdpalak17/Bicycle-Gradient-Tracker)** | Computer-vision-based gradient and pedal-force tracker for the smart bicycle project — Intel RealSense + OpenCV |
+| **Vynce** | Full-stack synchronized music listening platform — FastAPI backend, WebSocket real-time sync, JWT auth, a custom MLP recommendation engine, and an 8M+ song catalog |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend / Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pdpalak17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdpalak17&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+---
+
+### 💭 Daily thought
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=17&duration=6000&pause=3000&color=C3A6FF&center=true&vCenter=true&width=650&lines=%22Any+unwillingness+to+learn+mathematics+today+can+greatly+restrict%22;%22your+possibilities+tomorrow.%22+%E2%80%94+Richard+Hamming" alt="Daily thought" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/palak-dwivedi-597250312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/pd.palak17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="mailto:palakdwivedi109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/32694628"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+</p>
