@@ -11,7 +11,7 @@
 
 B.Tech Computer Science and Engineering (AI/ML) student who likes building things — from computer vision dashboards to RAG agents to explainable AI systems — rather than stopping at a notebook.
 
-I've worked across smart grid analytics and power systems (BITS Pilani, Hyderabad Campus) and applied that same systems-thinking to the projects below: fusing sensors and models into working dashboards, agents, and tools.
+I have gained hands-on research experience in domains spanning smart grid analytics, signal processing, and resilient power systems during my internship as a Research Intern at BITS Pilani, Hyderabad Campus, where I worked on “Virtual Inertia Monitoring and Self-Healing Mechanisms in Smart Grids using Data Analytics and Machine Learning.” This project involved power system modeling, fault analysis, and the application of ML/DL techniques for enhanced grid protection and stability.
 
 **Interests:** Machine Learning · Deep Learning · Computer Vision · Reinforcement Learning · RAG & AI Agents · Explainable AI (XAI) · Multi-Agent Systems
 
