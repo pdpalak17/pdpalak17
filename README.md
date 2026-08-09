@@ -99,14 +99,6 @@ Comfortable with Python (ML/DL frameworks), MATLAB (signal processing), and simu
 
 ---
 
-### Daily thought
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=17&duration=6000&pause=3000&color=C3A6FF&center=true&vCenter=true&width=650&lines=%22Any+unwillingness+to+learn+mathematics+today+can+greatly+restrict%22;%22your+possibilities+tomorrow.%22+%E2%80%94+Richard+Hamming" alt="Daily thought" />
-</p>
-
----
-
 ### 🌐 Connect
 
 <p align="center">
