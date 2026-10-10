@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3500&pause=1200&color=A9B1D6&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(AI%2FML)+%40+Woxsen+University;Working+on+RL%2C+multimodal+fusion+%26+applied+ML;Currently+researching+HCI-driven+smart+mobility" alt="Typing SVG" />
 </p>
 
-<!-- 3D contribution graph: generated daily by .github/workflows/profile-3d.yml -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph" width="100%" />
-</p>
-
 ---
 
 ### About me
@@ -114,13 +109,11 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 
 ---
 
-### Certifications
+<!-- 3D contribution graph: generated daily by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution graph" width="100%" />
+</p>
 
-- AWS Cloud Practitioner Essentials, AWS Training and Certification
-- Technology Job Simulation (Coding and Development), Deloitte via Forage
-- Data Analytics Job Simulation (Data Analysis and Forensic Technology), Deloitte via Forage
-
----
 
 ### Connect
 
