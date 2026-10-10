@@ -110,7 +110,7 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 ---
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
 ### Connect
