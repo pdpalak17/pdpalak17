@@ -27,7 +27,7 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 | Project | What it does | Stack |
 |---|---|---|
 | **[Devora](https://github.com/pdpalak17/devora)** | One-line description of what Devora does and the problem it solves | Add your stack here |
-| **[Diabetic Retinopathy Decision Support](https://github.com/pdpalak17)** | End-to-end multimodal clinical decision-support system for DR screening; fuses deep transfer learning (computer vision), ML and RAG to give ophthalmologists grounded, evidence-based explanations | Transfer Learning, RAG, Streamlit |
+| **[Diabetic Retinopathy Decision Support]([https://github.com/pdpalak17](https://github.com/pdpalak17/Diabetic_Retinopathy_Model))** | End-to-end multimodal clinical decision-support system for DR screening; fuses deep transfer learning (computer vision), ML and RAG to give ophthalmologists grounded, evidence-based explanations | Transfer Learning, RAG, Streamlit |
 | **[CycloVision-AI](https://github.com/pdpalak17/CycloVision-AI)** | Intelligent e-bike HUD with real-time object detection, OpenCV gradient/pitch analysis, GPS field-ride logging, battery telemetry, fall/SOS detection | TensorFlow.js, OpenCV, Leaflet.js, Python |
 | **[Bicycle-Gradient-Tracker](https://github.com/pdpalak17/Bicycle-Gradient-Tracker)** | Computer-vision bicycle gradient and pedal-force tracker using Intel RealSense | Python, OpenCV |
 | **[SENTINEL-AI](https://github.com/pdpalak17/Reliability-Aware-Multimodal-Anomaly-Detection)** | Reliability-aware multimodal anomaly detection: fuses facial, pose, motion and context signals with confidence-weighted fusion and SHAP-based explanations | PyTorch-style CNN-LSTM branches, OpenCV, MediaPipe, Streamlit, Docker |
