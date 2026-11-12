@@ -115,7 +115,7 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 
   <br/>
 
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="600" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="600" />
 
 </div>
 
