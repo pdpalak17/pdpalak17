@@ -20,6 +20,16 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 
 **Open to:** internships and collaborations in ML, smart systems, and data-driven engineering. Feel free to connect.
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=pdpalak17&hide_border=true&background=000000&ring=7CFC00&fire=7CFC00&currStreakNum=00A2FF&currStreakLabel=00A2FF&sideNums=7CFC00&sideLabels=7CFC00&dates=FFFFFF&stroke=FFFFFF30" alt="GitHub Streak" width="600" />
+
+  <br/>
+
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="600" />
+
+</div>
+
 ---
 
 ### Projects
@@ -108,16 +118,6 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=pdpalak17&hide_border=true&background=000000&ring=7CFC00&fire=7CFC00&currStreakNum=00A2FF&currStreakLabel=00A2FF&sideNums=7CFC00&sideLabels=7CFC00&dates=FFFFFF&stroke=FFFFFF30" alt="GitHub Streak" width="600" />
-
-  <br/>
-
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="600" />
-
-</div>
 
 ### Connect
 
