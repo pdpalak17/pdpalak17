@@ -109,9 +109,15 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 
 ---
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" />
-</p>
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=pdpalak17&hide_border=true&background=000000&ring=7CFC00&fire=7CFC00&currStreakNum=00A2FF&currStreakLabel=00A2FF&sideNums=7CFC00&sideLabels=7CFC00&dates=FFFFFF&stroke=FFFFFF30" alt="GitHub Streak" width="600" />
+
+  <br/>
+
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="600" />
+
+</div>
 
 ### Connect
 
