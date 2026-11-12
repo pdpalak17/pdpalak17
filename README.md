@@ -45,7 +45,7 @@ B.Tech Computer Science and Engineering (AI/ML) student who likes building thing
 | **[OculiRAG](https://github.com/pdpalak17/glaucoma-rag-agent)** | Agentic RAG clinical decision-support tool: retrieves clinical guidelines and reasons through a multi-agent pipeline to recommend target IOP for glaucoma | FastAPI, scikit-learn (TF-IDF), Docker |
 | **[Battery Health XAI](https://github.com/pdpalak17/battery-health-lime-explainable-ai)** | Explainable battery health monitoring on NASA battery datasets: predictive maintenance with LIME-based feature attributions | Random Forest, XGBoost, LIME |
 
-*Also maintaining a private [LeetCode solutions](https://github.com/pdpalak17/LeetCode-Solutions) repo for interview prep.*
+*Also maintaining a [LeetCode solutions](https://github.com/pdpalak17/LeetCode-Solutions) repo for interview prep.*
 
 ---
 
